@@ -8,9 +8,9 @@ assignees: ''
 
 ## 🎯 User Story
 
-> En tant que ...  
-> Je souhaite ...  
-> Afin de ...
+> **En tant que ...**
+> **Je souhaite ...** 
+> **Afin de ...**
 
 ---
 
